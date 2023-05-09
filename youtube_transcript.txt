@@ -1,0 +1,1 @@
+Retrieve the transcript of the YouTube video using the youtube_transcription API.
